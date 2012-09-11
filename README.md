@@ -4,7 +4,7 @@ de semana se actualizara el repositorio.
 
 Maira Flores Medina: https://github.com/mairaflores
 
-Sergio Saul Hernandez Ortiz: https://github.com/IngSaul
+Sergio Saul Hernández Ortiz: https://github.com/IngSaul
 
 Javier Esaú Rentería Guache: https://github.com/JavierEsauRenteriaGuache
 
