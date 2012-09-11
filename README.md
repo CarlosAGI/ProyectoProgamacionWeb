@@ -1,12 +1,15 @@
 Proyecto Final para la clase de Programacion Web.
-Los integrantes del equipo todavia no tienen cuenta github, este fin
-de semana se actualizara el repositorio.
+integrantes del equipo:
 
-Maira Flores Medina: https://github.com/mairaflores
+Maira Flores Medina--> https://github.com/mairaflores
 
-Sergio Saul Hernández Ortiz: https://github.com/IngSaul
+Sergio Saul Hernández Ortiz--> https://github.com/IngSaul
 
-Javier Esaú Rentería Guache: https://github.com/JavierEsauRenteriaGuache
+Javier Esaú Rentería Guache--> https://github.com/JavierEsauRenteriaGuache
+
+Carlos Arturo Gutierrez Iñiguez--> https://github.com/CarlosAGI/
+
+Listos!
 
 ////////////////////////////////////////////////////////
 
