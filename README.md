@@ -3,7 +3,9 @@ Los integrantes del equipo todavia no tienen cuenta github, este fin
 de semana se actualizara el repositorio.
 
 Maira Flores Medina: https://github.com/mairaflores
+
 Sergio Saul Hernandez Ortiz: https://github.com/IngSaul
+
 Javier Esaú Rentería Guache: https://github.com/JavierEsauRenteriaGuache
 
 ////////////////////////////////////////////////////////
